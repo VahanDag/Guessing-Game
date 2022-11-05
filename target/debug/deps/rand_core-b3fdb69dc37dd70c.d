@@ -1,0 +1,12 @@
+C:\Users\vdag_\Desktop\Vahan\RUST\guessing_game\target\debug\deps\rand_core-b3fdb69dc37dd70c.rmeta: C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\vdag_\Desktop\Vahan\RUST\guessing_game\target\debug\deps\librand_core-b3fdb69dc37dd70c.rlib: C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\vdag_\Desktop\Vahan\RUST\guessing_game\target\debug\deps\rand_core-b3fdb69dc37dd70c.d: C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs
+
+C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\lib.rs:
+C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\block.rs:
+C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\error.rs:
+C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\impls.rs:
+C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\le.rs:
+C:\Users\vdag_\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.4\src\os.rs:
